@@ -118,7 +118,12 @@ h1 {
 
 
 
-
+.infra {
+    background-color: #808080;
+	color:white;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+}
 
 
 
